@@ -1,0 +1,745 @@
+Brand_ID,Brand_Name,Category,Price
+R-1111,Blue Carriage Vintners,Red,167.99
+R-1112,Thirsty Writer Vintners,Red,111.49
+R-1113,Abnormally Normal Wine,Red,21.99
+R-1114,Singlewave Vines,Red,7.99
+R-1115,Another Vineyards,Red,8.99
+R-1116,Underdog,Red,22.99
+R-1117,Bright Ring Vintners,Red,20.49
+R-1118,Busy Month Wine,Red,37.99
+R-1119,Roinad Vintners,Red,14.99
+R-1120,La Cabra,Red,13.99
+R-1121,Crazy Tomatoes,Red,71.99
+R-1122,La Escoba,Red,20.99
+R-1123,Nightfall Vineyards,Red,18.99
+R-1124,Loodon,Red,8.99
+R-1125,Real Nerve,Red,10.49
+R-1126,La Araña,Red,17.49
+R-1127,Equable Fork,Red,14.99
+R-1128,El Rábano,Red,10.99
+R-1129,Instinctive Vines,Red,31.49
+R-1130,Nonchalant Air,Red,24.49
+R-1131,Supernatural Vineyards,Red,12.99
+R-1132,Decisive Note Wines,Red,49.49
+R-1133,Hypnotic Suggestion Winery,Red,39.49
+R-1134,Literate,Red,75.99
+R-1135,Plausible Explanation Vines,Red,22.99
+R-1136,Majestically Dapper Vintners,Red,17.99
+R-1137,Blissfully Brash Wines,Red,13.99
+R-1138,Clean Slate Winery,Red,45.99
+R-1139,Cooing Roo Wine,Red,21.49
+R-1140,Passkey,Red,11.99
+R-1141,Utter Vines,Red,27.99
+R-1142,Chaintwist Wines,Red,10.99
+R-1143,Upstart Wines,Red,19.99
+R-1144,Luxuriant,Red,15.99
+R-1145,Righteous Flowers,Red,28.99
+R-1146,Quack Magic Vintners,Red,49.99
+R-1147,El Formón,Red,8.99
+R-1148,Keystone,Red,15.99
+R-1149,Resaix Vineyards,Red,14.99
+R-1150,Goodnight Wines,Red,11.99
+R-1151,Dramatic Increase,Red,10.99
+R-1152,Knowledgeable Sky,Red,163.99
+R-1153,Trealop,Red,16.99
+R-1154,La Almohada,Red,12.99
+R-1155,El Despertador,Red,21.99
+R-1156,Superpower,Red,21.99
+R-1157,Accidental,Red,47.99
+R-1158,Obsolete Caption Vineyards,Red,17.99
+R-1159,Unequal Parts Vineyards,Red,11.49
+R-1160,Allspice,Red,21.49
+R-1161,El Armario,Red,10.99
+R-1162,La Papelería,Red,23.49
+R-1163,Anyplace Winery,Red,20.49
+R-1164,Ahoy-Wut Winery,Red,21.99
+R-1165,Alerrawia,Red,9.99
+R-1166,Glomtom Winery,Red,22.49
+R-1167,Jukebox,Red,11.49
+R-1168,Cheerful Song Wine,Red,42.99
+R-1169,Novanoid Wines,Red,7.99
+R-1170,Rosy Robin Vintners,Red,12.49
+R-1171,Spooky Humor Vineyards,Red,13.99
+R-1172,Humbly Snobbish Vintners,Red,10.99
+R-1173,Jovaphile Vines,Red,20.99
+R-1174,Glorious Grape,Red,7.99
+R-1175,Supercharge,Red,22.99
+R-1176,Classy Cask Wine,Red,18.49
+R-1177,Uptight Vines,Red,21.99
+R-1178,Gigantic Gyroscope,Red,160.49
+R-1179,Faded Bubble,Red,135.99
+R-1180,Normal Stop Vintners,Red,11.49
+R-1181,Questionable Intent Vineyards,Red,9.99
+R-1182,Whitecap,Red,22.49
+R-1183,Probably Gorgeous,Red,10.99
+R-1184,Bumola Wines,Red,14.99
+R-1185,Habitual Snitch Wines,Red,10.99
+R-1186,Elegant Rhythm Vintners,Red,22.99
+R-1187,Fat Sound,Red,32.99
+R-1188,Xanpon Vintners,Red,18.49
+R-1189,Pulappli Vines,Red,20.99
+R-1190,Psychotic Ghost Vintners,Red,121.99
+R-1191,Suspiciously Scarce,Red,11.99
+R-1192,Swanky Cactus Vintners,Red,22.99
+R-1193,La Hermana,Red,20.99
+R-1194,Cuddly Scarecrow Vintners,Red,10.99
+R-1195,Stronghold,Red,20.99
+R-1196,Silversmith Wine,Red,9.99
+R-1197,Merciful Judge,Red,13.99
+R-1198,Boardwalk Vintners,Red,12.49
+R-1199,Blueberry Wine,Red,19.99
+R-1200,Los Zapatos,Red,14.49
+R-1201,Glozzom,Red,14.99
+R-1202,Ethereal Teaching,Red,8.99
+R-1203,Roomy Cabin Vintners,Red,17.99
+R-1204,Siopp,Red,22.99
+R-1205,Unpossible Winery,Red,20.99
+R-1206,Cluttered Ducks Vines,Red,22.99
+R-1207,Yellow Eyes,Red,23.49
+R-1208,Acirassi Wines,Red,14.49
+R-1209,Graceful Motion Vines,Red,10.49
+R-1210,Butterfingers Vines,Red,15.99
+R-1211,La Escalera,Red,11.99
+R-1212,Holistic Earth,Red,36.99
+R-1213,Defas Vines,Red,13.99
+R-1214,Rainwater,Red,18.49
+R-1215,Weary Traveller,Red,19.99
+R-1216,Headline Wines,Red,12.99
+R-1217,Adventurously Aloof Wines,Red,21.99
+R-1218,Sertave,Red,11.49
+R-1219,Ybuwyn Wines,Red,9.49
+R-1220,Three Brothers Vintners,Red,15.99
+R-1221,Chief Concern Wine,Red,19.49
+R-1222,Bocilile Wines,Red,15.99
+R-1223,Colorfully Pale,Red,9.99
+R-1224,Forecastle Vintners,Red,21.99
+R-1225,La Familia,Red,15.99
+R-1226,Valiantly Humdrum,Red,7.99
+R-1227,Heartbreaking Rose,Red,43.99
+R-1228,Pastoral Hill Vineyards,Red,14.49
+R-1229,Crowded Hut,Red,9.99
+R-1230,Jiofrax,Red,16.99
+R-1231,Commonplace Winery,Red,20.49
+R-1232,Wayward Vineyards,Red,13.99
+R-1233,Cloudy Bay Vintners,Red,14.99
+R-1234,Backspace Winery,Red,21.99
+R-1235,Sneaky Star Wine,Red,51.99
+R-1236,Sunray,Red,13.49
+R-1237,Hoppler Winery,Red,21.99
+R-1238,Whole Trail Wines,Red,10.99
+R-1239,Pruvia Winery,Red,13.49
+R-1240,Anytime Vines,Red,14.99
+R-1241,Boxium Vines,Red,12.49
+R-1242,Electric Team Winery,Red,106.49
+R-1243,La Onda,Red,22.99
+R-1244,Free Thought Wines,Red,18.99
+R-1245,Assorted Errors Wine,Red,174.99
+R-1246,Miresa,Red,10.49
+R-1247,Tremendously Tested,Red,9.49
+R-1248,Bistup Wine,Red,20.99
+R-1249,Daffy Town Winery,Red,27.99
+R-1250,Drirathiel Vines,Red,13.49
+R-1251,Carefree Vines,Red,19.99
+R-1252,Bizarre,Red,39.49
+R-1253,Eight Hands,Red,8.49
+R-1254,Frantic Machine Winery,Red,10.99
+R-1255,Ever Near,Red,9.99
+R-1256,Mellow Acoustics,Red,7.99
+R-1257,Vigorous,Red,9.99
+R-1258,Exclusive Feeling Winery,Red,109.99
+R-1259,Nekmit,Red,16.49
+R-1260,Premium Payment Winery,Red,19.99
+R-1261,El Venado,Red,17.99
+R-1262,Pinwheel Vintners,Red,12.49
+R-1263,Biasdo Wines,Red,21.49
+R-1264,Berserk Beefeater,Red,54.99
+R-1265,Descriptive Limit Vines,Red,46.49
+R-1266,Tribop Wine,Red,34.99
+R-1267,Grandmaster Vintners,Red,10.49
+R-1268,Aspiring Exchange,Red,7.99
+R-1269,Sorson Winery,Red,21.99
+R-1270,La Tortuga,Red,21.49
+R-1271,Festive Tendency,Red,17.99
+R-1272,Daily Run Winery,Red,18.49
+R-1273,Hysterical Cleric Wine,Red,7.99
+R-1274,Daisywheel,Red,12.49
+R-1275,Responsible Bucket Wine,Red,41.99
+R-1276,Relatively Educated Wines,Red,17.49
+R-1277,Telltale Winery,Red,11.99
+R-1278,La Banca,Red,13.99
+R-1279,Brainy Bairn Vines,Red,15.49
+R-1280,Lotadilo Vineyards,Red,7.99
+R-1281,Untidy Coiffure Vines,Red,35.49
+R-1282,Breezy Boquet Wine,Red,17.49
+R-1283,Sloppy Joe Wines,Red,11.99
+R-1284,Even Keeled,Red,15.99
+R-1285,Beneficial Point,Red,16.99
+R-1286,Fortunate Thread,Red,11.99
+R-1287,Marked Page Wine,Red,18.99
+R-1288,Disillusioned Inventor,Red,18.99
+R-1289,Shipstern Wines,Red,17.99
+R-1290,Delightful Wall Wines,Red,45.49
+R-1291,Backslide Winery,Red,20.99
+R-1292,Verdant View Winery,Red,14.99
+R-1293,Useless Boot Vines,Red,13.49
+R-1294,Flowery Bells Vintners,Red,27.49
+R-1295,Victorious Hand,Red,7.99
+R-1296,Winooze,Red,21.99
+R-1297,Highfalutin Vintners,Red,54.99
+R-1298,Mizuxe Vines,Red,44.99
+R-1299,Delicate,Red,111.99
+R-1300,Starfish,Red,11.99
+R-1301,Digikiki Vineyards,Red,10.99
+R-1302,Hawkloon Vintners,Red,8.99
+R-1303,Forecast Vineyards,Red,17.99
+R-1304,Sunup Winery,Red,13.49
+R-1305,La Remolacha,Red,7.99
+R-1306,Illustrious Wine,Red,8.99
+R-1307,Painstaking Effort Wine,Red,20.99
+R-1308,Burder Winery,Red,7.99
+R-1309,El Bisonte,Red,23.49
+R-1310,Ragged Queen,Red,12.99
+R-1311,El Árbol,Red,17.49
+R-1312,Loud Alarm Winery,Red,19.99
+R-1313,Turnkey Vineyards,Red,20.99
+R-1314,Butterscotch Wine,Red,7.99
+R-1315,Chevesic Wine,Red,21.49
+R-1316,Broken Wrist Wines,Red,9.99
+R-1317,Parede Wines,Red,13.49
+R-1318,Fair Judge,Red,30.99
+R-1319,Warm Year Winery,Red,39.99
+R-1320,Better Butter Wine,Red,18.49
+R-1321,Rapid Impulse Wine,Red,33.49
+R-1322,Makeshift Thing Wine,Red,45.99
+R-1323,Noxu Wine,Red,9.99
+R-1324,Waratel Vines,Red,52.99
+R-1325,Forethought Vines,Red,17.99
+R-1326,Complex Authority,Red,7.99
+R-1327,Feigned Ignorance Vineyards,Red,139.49
+R-1328,Upstate Wine,Red,14.99
+R-1329,Ambiguous Remark Wine,Red,11.99
+R-1330,Vivacious,Red,45.99
+R-1331,Takeoff Vines,Red,15.99
+R-1332,Tedious Turtle Wine,Red,17.99
+R-1333,Today Wine,Red,15.99
+R-1334,Knowing Representative Wine,Red,23.99
+R-1335,Watermelon Winery,Red,9.49
+R-1336,Taskmaster,Red,10.99
+R-1337,Bronea Vintners,Red,21.99
+R-1338,Tabletop Wine,Red,12.99
+R-1339,Tasty Jam,Red,19.99
+R-1340,Raincheck,Red,22.99
+R-1341,Familiar Stock Vineyards,Red,65.99
+R-1342,Bookcase Vintners,Red,20.99
+R-1343,El Dulce,Red,9.99
+R-1344,Overwrought Expert,Red,13.49
+R-1345,Acoustic Nation Vines,Red,116.99
+R-1346,Ambitious Plot Vintners,Red,8.49
+R-1347,Adjoining Ocean Wines,Red,11.99
+R-1348,Wavelength Winery,Red,9.99
+R-1349,Whispering Wind Vines,Red,22.99
+R-1350,Werradith,Red,18.99
+R-1351,Seiliu Vineyards,Red,11.49
+R-1352,Westwest Wines,Red,12.49
+R-1353,Vague Notion Vineyards,Red,8.49
+R-1354,Fishtail Vineyards,Red,11.99
+R-1355,Probable Outcome Vineyards,Red,14.49
+R-1356,Ekcle,Red,18.99
+R-1357,Bluebird Vines,Red,8.49
+R-1358,Spacewalk Winery,Red,11.99
+R-1359,Chacaka Winery,Red,11.99
+R-1360,Tupacase,Red,17.49
+R-1361,Creahoof,Red,18.99
+R-1362,Curiously Earthy,Red,18.49
+R-1363,Bootstrap Wines,Red,9.49
+R-1364,Vacso,Red,10.49
+R-1365,Somewhat Elated Vintners,Red,18.49
+R-1366,Abounding Trade Vineyards,Red,8.99
+R-1367,Dizoolexa,Red,32.99
+W-1111,Jovially Overt,White,20.99
+W-1112,Truculent Moon,White,9.49
+W-1113,Upstage Vineyards,White,20.99
+W-1114,Standing Zebra Winery,White,107.99
+W-1115,Possible Investment Winery,White,70.99
+W-1116,Disagreeable Vicar Winery,White,8.49
+W-1117,Nalpure Wine,White,16.49
+W-1118,Unoseth Wines,White,7.99
+W-1119,Peachflame Winery,White,11.99
+W-1120,Strong Snail Vintners,White,17.99
+W-1121,Modern Noggin,White,18.99
+W-1122,Hospitable Rock,White,104.99
+W-1123,Sidekick,White,23.49
+W-1124,Spiteful Sprite,White,22.99
+W-1125,Underground,White,11.99
+W-1126,Typical Vintners,White,18.49
+W-1127,Panoramic View Wines,White,143.99
+W-1128,Yammoe,White,20.49
+W-1129,Viottis,White,7.99
+W-1130,Headlight,White,22.49
+W-1131,Dohi Vineyards,White,7.99
+W-1132,Blackboard,White,19.99
+W-1133,Foxclore,White,8.99
+W-1134,Incandescent Chess Wines,White,21.99
+W-1135,Unusual Cabbage Wines,White,19.99
+W-1136,Fine Grain,White,37.99
+W-1137,Detailed Decision Wine,White,139.99
+W-1138,Plucky Parrot Wine,White,13.99
+W-1139,Barbarous Bandits Wines,White,14.49
+W-1140,Surogou,White,13.99
+W-1141,Juvenile,White,38.49
+W-1142,Selective Sect Vintners,White,11.99
+W-1143,Aboveboard,White,16.99
+W-1144,Enormous Book,White,10.99
+W-1145,Puzzling Mist,White,17.99
+W-1146,Mainland,White,11.99
+W-1147,Magenta Guitar,White,93.49
+W-1148,Plakill,White,47.99
+W-1149,Grateful Ned,White,22.99
+W-1150,Irate Grandmother Winery,White,23.49
+W-1151,Erratic Fish Vines,White,48.99
+W-1152,Looncan Wines,White,16.99
+W-1153,Abundant Angle,White,18.49
+W-1154,Devilish Crook,White,9.99
+W-1155,Safome,White,23.49
+W-1156,Animated Anthill Wine,White,14.99
+W-1157,Oval Gem,White,8.49
+W-1158,Oleald,White,22.49
+W-1159,Kizerain Vines,White,14.99
+W-1160,Gearshift Vintners,White,20.99
+W-1161,Clean Linen Vineyards,White,17.99
+W-1162,Backdrop Vines,White,11.49
+W-1163,Sooprno,White,13.49
+W-1164,Sundial Wine,White,12.99
+W-1165,Well-To-Do Vineyards,White,14.49
+W-1166,Strange Bag Wine,White,38.99
+W-1167,Youthful Wine,White,35.49
+W-1168,Courtyard Vintners,White,14.99
+W-1169,Abstracted Sand Vineyards,White,48.99
+W-1170,Adorable Class,White,44.49
+W-1171,Able Brake,White,11.99
+W-1172,Buttercup,White,8.99
+W-1173,Voquev Vines,White,22.99
+W-1174,Macho,White,12.99
+W-1175,Mizule Winery,White,47.49
+W-1176,Ociramma Vines,White,13.99
+W-1177,Impartial Rate Winery,White,29.99
+W-1178,Murky Interpretation Vineyards,White,16.99
+W-1179,Uptight,White,16.49
+W-1180,Ill-Fated,White,11.99
+W-1181,Pepelexa Vintners,White,9.49
+W-1182,Aferraron,White,16.99
+W-1183,Animepolis Vineyards,White,13.49
+W-1184,Harsh Cause Wines,White,49.99
+W-1185,Historical Test,White,150.99
+W-1186,Thunderstorm Vintners,White,9.99
+W-1187,Feandra,White,22.49
+W-1188,Heavenly Honey Wine,White,12.49
+W-1189,Upstanding,White,21.49
+W-1190,Alike Structure Wines,White,36.49
+W-1191,Toximble Winery,White,15.49
+W-1192,Terrific Increase,White,30.99
+W-1193,Qerrassa,White,22.49
+W-1194,Likeable Measure Wine,White,13.99
+W-1195,Almost Rampant,White,20.99
+W-1196,Blueprint Wines,White,22.99
+W-1197,Sislaf,White,22.99
+W-1198,Fuzzy Waves,White,20.49
+W-1199,Tangy Silk,White,57.49
+W-1200,Claster,White,15.99
+W-1201,Uppercase Vines,White,16.99
+W-1202,Regular Sort Wines,White,12.99
+W-1203,Forgetful Elephant,White,151.49
+W-1204,Aloidia,White,47.99
+W-1205,Chilly Weather Vines,White,51.99
+W-1206,Jazzy Jive,White,11.99
+W-1207,Weepeggle,White,18.99
+W-1208,Silly Question Vines,White,17.99
+W-1209,Oafish Ogre Vineyards,White,51.99
+W-1210,Dashing Taste Vineyards,White,7.99
+W-1211,Aberidus,White,21.49
+W-1212,Voov,White,15.99
+W-1213,Joyfully Lamentable Wine,White,8.99
+W-1214,Talented Tortoise,White,10.99
+W-1215,Bioyino,White,34.99
+W-1216,Freezing Pan,White,11.99
+W-1217,Geosyog,White,23.99
+W-1218,Colossal Interest Vintners,White,47.49
+W-1219,Spiritual Bird,White,17.99
+W-1220,Yimello,White,22.49
+W-1221,Mixed Balance,White,40.49
+W-1222,Cardsharp Vineyards,White,10.49
+W-1223,Thankful Prankster Wine,White,11.99
+W-1224,Friendly Neighbor,White,9.99
+W-1225,Gainful Goat,White,64.99
+W-1226,Watchtower Wine,White,10.99
+W-1227,Toogit Vines,White,11.99
+W-1228,Narrow Ridge,White,10.49
+W-1229,Miniature Barrel,White,140.99
+W-1230,Cheilith,White,13.99
+W-1231,Far-Flung Bridge Vines,White,15.99
+W-1232,Didactic Chance,White,70.99
+W-1233,Wandering Judge,White,22.99
+W-1234,Dairymaid,White,8.99
+W-1235,Altogether Glamorous,White,9.99
+W-1236,Offbeat Receipt Vintners,White,10.49
+W-1237,Besloor,White,13.49
+W-1238,Successful Event,White,87.99
+W-1239,Astauand Vines,White,26.99
+W-1240,Nanoarrow,White,18.49
+W-1241,Empty Cask,White,17.99
+W-1242,Moderock Vintners,White,30.49
+W-1243,Eraow Vines,White,8.49
+W-1244,Fragile Grape Winery,White,47.99
+W-1245,Powerful Experience Winery,White,56.99
+W-1246,Thunderbird Winery,White,11.99
+W-1247,Hilarious Barrister,White,14.99
+W-1248,Sohanidd Winery,White,20.49
+W-1249,Skaxis Wines,White,18.99
+W-1250,Nervous Mint Vineyards,White,49.99
+W-1251,Roplixoo Wine,White,19.99
+W-1252,Chillpal Wine,White,22.99
+W-1253,Axiomatic Winery,White,162.49
+W-1254,Zapster,White,20.49
+W-1255,Scarecrow Vineyards,White,10.99
+W-1256,Callous,White,7.99
+W-1257,Lifeblood,White,10.99
+W-1258,Grynn,White,23.49
+W-1259,Boorish,White,61.99
+W-1260,Schoolbook,White,19.99
+W-1261,Yboiveth Wines,White,22.49
+W-1262,Blackjack Vines,White,15.49
+W-1263,Needless Effort Vines,White,20.99
+W-1264,Blacksmith Vintners,White,10.99
+W-1265,Automatic Fall Wine,White,73.99
+W-1266,Qiameth Vines,White,9.99
+W-1267,Profuse North Wines,White,29.99
+W-1268,Agonizing Anteater,White,27.99
+W-1269,Dispensable Advice,White,8.49
+W-1270,Scitenoa Vines,White,12.99
+W-1271,Acaer,White,12.99
+W-1272,Tiny Cake Vines,White,20.99
+W-1273,Flawless Popcorn,White,163.99
+W-1274,Zestpond Vintners,White,23.49
+W-1275,Adaptable Story Vineyards,White,43.99
+W-1276,Bowtie,White,7.99
+W-1277,Open River Vines,White,65.99
+W-1278,Grodsaar Winery,White,17.99
+W-1279,Hexteria Wine,White,21.99
+W-1280,Capricious Sun,White,110.99
+W-1281,Little Feet Winery,White,12.99
+W-1282,Fiercely Few,White,20.99
+W-1283,Hallowed Force,White,16.99
+W-1284,Chesture,White,17.49
+W-1285,Fallacious Stew,White,16.99
+W-1286,Picayune Vintners,White,8.99
+W-1287,Macabre Vineyards,White,24.49
+W-1288,Jaded Aftermath,White,55.99
+W-1289,Wise Trees Winery,White,21.99
+W-1290,Playhouse Wines,White,8.99
+W-1291,Luwest Vines,White,12.99
+W-1292,Odd Route,White,13.99
+W-1293,Perfect Apparel,White,13.49
+W-1294,Second Day Vineyards,White,8.99
+W-1295,Bumooxa Vineyards,White,13.99
+W-1296,Volatile,White,24.99
+W-1297,Sevit,White,16.49
+W-1298,Boaconic Vintners,White,16.49
+W-1299,Limestone Winery,White,10.99
+W-1300,Olielle,White,13.99
+W-1301,Arrowgance Vineyards,White,9.99
+W-1302,Upmarket Winery,White,20.99
+W-1303,Nekmunnit,White,22.99
+W-1304,Fliondeso Winery,White,13.49
+W-1305,Dogdax Wine,White,20.99
+W-1306,Silent Abbey Vineyards,White,19.99
+W-1307,Pentwist,White,18.49
+W-1308,Permissible,White,122.99
+W-1309,Scrawny Rat Vintners,White,8.99
+W-1310,Aware,White,10.49
+W-1311,Shaggy Lamb,White,10.99
+W-1312,Yoffa,White,15.99
+W-1313,Lowly Discussion,White,25.99
+W-1314,Skylark,White,17.99
+W-1315,Round Liquid,White,29.49
+W-1316,Taboo Title,White,18.99
+W-1317,Gusty Gale Wines,White,143.99
+W-1318,Rigid Mountain Winery,White,15.99
+W-1319,Hardly Hurried,White,18.99
+W-1320,Heavy Cast Vineyards,White,12.99
+W-1321,Eggmode Wines,White,17.99
+W-1322,Gray Ducks,White,20.49
+W-1323,Schoolhouse,White,14.99
+W-1324,Snowbank Vines,White,21.99
+W-1325,Adamant Position,White,33.99
+W-1326,Sweet Regret Wine,White,20.49
+W-1327,Duckpin Winery,White,16.49
+W-1328,Quirkily Anxious Vineyards,White,16.99
+W-1329,Sasaroo,White,23.49
+W-1330,Foresight Winery,White,8.99
+W-1331,Tacit Suggestion,White,14.49
+W-1332,Towering Cherry Wines,White,10.99
+W-1333,Massive Fowl Winery,White,17.99
+W-1334,Rainbow Vineyards,White,11.99
+W-1335,Wistful Zephyr Wine,White,11.99
+W-1336,Tame Tamarin,White,31.99
+W-1337,Left Bank Vines,White,54.49
+W-1338,Novaly,White,17.99
+W-1339,Seashore Wine,White,14.99
+W-1340,Ancient Acres Vines,White,46.99
+W-1341,Newsbreak Vineyards,White,13.99
+W-1342,Ruthless Cook,White,16.99
+W-1343,Outgoing,White,7.99
+W-1344,Duckbill Winery,White,16.49
+W-1345,Morath Wine,White,8.99
+W-1346,Lopsided Bee Winery,White,27.99
+W-1347,Observant Sisters Winery,White,18.99
+W-1348,Amusing Flower Vines,White,16.49
+W-1349,Waterfront Vineyards,White,7.99
+W-1350,Checknology,White,8.99
+W-1351,Violet Vines,White,13.99
+W-1352,Sophile Vintners,White,8.49
+W-1353,Uninhabited Territory Wine,White,12.99
+W-1354,Fortnight,White,13.99
+W-1355,Someday Wines,White,23.49
+W-1356,Headquarters Vintners,White,13.49
+W-1357,Overboard,White,20.49
+W-1358,Something,White,19.99
+W-1359,Coordinated Effort Wines,White,23.49
+W-1360,Printure,White,57.99
+W-1361,Short Line,White,13.99
+W-1362,Jolly Bell Wines,White,80.99
+W-1363,Unwieldy Cushion Winery,White,22.49
+W-1364,Nocobot Vineyards,White,23.49
+W-1365,Timetable,White,14.99
+W-1366,Scintillating Vineyards,White,50.49
+W-1367,Kiraric Wines,White,15.49
+W-1368,Crossbow Wine,White,21.99
+W-1369,Upshot,White,14.99
+W-1370,Second-Hand Steam Vineyards,White,15.99
+W-1371,Loving Mother Wine,White,17.99
+W-1372,Frequently Calculating Wines,White,15.99
+W-1373,Prickly Pear Vineyards,White,40.99
+W-1374,Stepjump Vineyards,White,19.99
+W-1375,Stoplight Winery,White,15.99
+W-1376,Chillaid Winery,White,21.99
+W-1377,Naperone,White,48.49
+W-1378,Striped Donkey Vineyards,White,9.49
+W-1379,Parallel Flight,White,16.99
+W-1380,Dusty Barrel Wines,White,172.99
+W-1381,Trelod,White,14.99
+W-1382,Wicked Drop Vineyards,White,19.49
+W-1383,Showoff Wines,White,11.49
+W-1384,Therapeutic Vintners,White,19.49
+W-1385,Meantime Vintners,White,9.99
+W-1386,Finicky Cheese Vintners,White,52.49
+W-1387,Hapless Vineyards,White,14.99
+W-1388,Judicious Brass Wine,White,76.99
+W-1389,Uppermost Vineyards,White,20.99
+W-1390,Polite Panda Wines,White,12.49
+W-1391,Futuristic Wines,White,11.99
+W-1392,Inquisitive Station Vintners,White,15.99
+W-1393,Exciting Produce Wine,White,10.99
+W-1394,Boaclick,White,8.49
+W-1395,Zany View,White,7.99
+W-1396,Hoopper Vines,White,13.99
+W-1397,Mighty Nettle,White,96.49
+W-1398,Present Plough,White,15.49
+W-1399,Well-Made Box Vineyards,White,21.99
+W-1400,Sandstone Winery,White,12.99
+W-1401,Modgone,White,20.99
+W-1402,Exciting Theory Wines,White,21.99
+W-1403,Drywest Vintners,White,13.49
+W-1404,Dependent Metal Vintners,White,13.99
+W-1405,Swooflia,White,11.99
+W-1406,Firecracker Vintners,White,20.99
+W-1407,Unsuitable Suitor Wines,White,9.49
+W-1408,Tupress,White,13.99
+W-1409,Upright Wine,White,9.99
+W-1410,Sleepy Giraffe,White,16.99
+W-1411,Petite Pail Vines,White,15.99
+W-1412,Boundless Spring Winery,White,11.49
+W-1413,Gullible Vines,White,164.49
+W-1414,Eminent Yak,White,18.49
+W-1415,Soostev Vineyards,White,22.99
+W-1416,Mammoth Land,White,12.99
+W-1417,Entertaining Egghead Vines,White,20.49
+W-1418,Shortbread Wine,White,18.99
+W-1419,Dear Friends Wines,White,16.99
+W-1420,Hesitant Step Vines,White,34.49
+W-1421,Unequaled Tray Wine,White,57.99
+W-1422,Outrageous Worm,White,10.99
+W-1423,Skizzle Vineyards,White,23.49
+W-1424,Natural,White,35.99
+W-1425,Auspicious Cow Wines,White,21.49
+W-1426,Keen Dime Wines,White,38.99
+W-1427,Rowlow,White,17.99
+W-1428,Fascinating Story Vineyards,White,84.49
+W-1429,Imaginary Actor Vintners,White,18.99
+W-1430,Smiling People,White,10.99
+W-1431,Wooden Frame,White,10.99
+W-1432,Enchanting Hall,White,42.99
+W-1433,Salty Sea Wines,White,12.99
+W-1434,Unbiased Estimate Winery,White,18.99
+W-1435,Catwalk Vintners,White,23.49
+W-1436,Lazap Wine,White,29.49
+W-1437,Shivering Branch Vintners,White,143.99
+W-1438,Jagged Edges Wines,White,18.99
+W-1439,Chorenn Winery,White,15.99
+W-1440,Fishnet,White,10.49
+W-1441,Absorbing Story,White,20.99
+W-1442,Quaint Loch Vineyards,White,12.49
+W-1443,Ironwork,White,9.99
+W-1444,Jobox Vintners,White,21.99
+W-1445,Diligent Guide Wine,White,14.99
+W-1446,Unruly Arch Vintners,White,92.99
+W-1447,Cooperative,White,48.99
+W-1448,Minivivi Wine,White,16.49
+W-1449,Sixfold,White,19.99
+W-1450,Skylight Vineyards,White,17.99
+W-1451,Grandstand,White,14.99
+W-1452,Tomash Winery,White,20.49
+W-1453,Vallume Wines,White,16.99
+W-1454,Harmonious Notes,White,176.99
+W-1455,Butternut,White,12.49
+W-1456,Blacklist,White,8.49
+W-1457,Snotty Snob,White,13.49
+W-1458,Steeplump,White,10.99
+W-1459,Noodile Vines,White,7.99
+W-1460,Pointless Door,White,10.99
+W-1461,Replitz Vintners,White,42.99
+W-1462,Happy Riddle,White,10.99
+W-1463,Organic Turn Vines,White,8.49
+W-1464,Cartwheel Vineyards,White,13.99
+W-1465,Redundant Butter,White,12.99
+W-1466,Losenoid,White,16.49
+W-1467,Alluring Light,White,18.99
+W-1468,Faint Whisper Vintners,White,19.99
+W-1469,Hysleria Vines,White,19.99
+W-1470,Cultured Set Winery,White,21.99
+W-1471,Ludicrous Calculator Wines,White,149.99
+W-1472,Rodrup Winery,White,16.99
+W-1473,Caring Creditor Vintners,White,12.99
+W-1474,Upturn,White,15.99
+W-1475,Kaloolun,White,13.99
+W-1476,Pleasant Grapes Vintners,White,146.49
+W-1477,Luezoid,White,19.99
+W-1478,Castrealm Wine,White,9.49
+W-1479,Spusious Wine,White,11.99
+W-1480,Waterside,White,9.99
+W-1481,Laughable Observation Wines,White,10.99
+W-1482,Reiltas Vineyards,White,22.99
+W-1483,Groovy Mask Vineyards,White,41.49
+W-1484,Joyous Friends Wines,White,151.99
+W-1485,Riverbanks,White,16.99
+W-1486,Jeren,White,16.99
+W-1487,Looplab,White,19.99
+W-1488,Backlash Winery,White,17.99
+W-1489,Level Headed Vintners,White,10.99
+W-1490,Nedril,White,11.99
+W-1491,Zestily Jealous Vines,White,12.99
+W-1492,Questionably Overconfident,White,12.99
+W-1493,Didiza Wine,White,20.99
+W-1494,Turnbuckle,White,12.99
+W-1495,Nevermore,White,13.49
+W-1496,Hendassa Vintners,White,9.99
+W-1497,Brief Rain Wine,White,7.99
+W-1498,Voonex,White,10.99
+W-1499,Lively Jelly Vines,White,7.99
+W-1500,Thoughtful Farm Vines,White,17.49
+W-1501,Curvy Road,White,33.49
+W-1502,Wavefire,White,8.99
+W-1503,Quick Detail,White,8.99
+W-1504,Lulerain,White,9.49
+W-1505,Honeysuckle,White,22.49
+W-1506,Divergent Approval,White,10.99
+W-1507,Witty Kittens,White,18.99
+W-1508,Defiant Winery,White,15.99
+W-1509,Vasagle,White,11.99
+W-1510,Public Floor Wines,White,11.99
+W-1511,Tenuous Connection,White,109.99
+W-1512,Wheelhouse,White,16.49
+W-1513,Maddening Recess,White,15.49
+W-1514,Clever Cannon,White,17.99
+W-1515,Moonscape Vintners,White,9.49
+W-1516,Sunfish,White,13.49
+W-1517,Gleblu Wine,White,16.49
+W-1518,Honeybee Vintners,White,9.99
+W-1519,Stingy Uncle Vineyards,White,18.99
+W-1520,Cattail Wines,White,16.99
+W-1521,Superb Plate,White,115.49
+W-1522,Flat Sail,White,12.99
+W-1523,Vagabond Shop Vineyards,White,19.99
+W-1524,Plifal Vintners,White,13.99
+W-1525,Cazoova Wines,White,11.99
+W-1526,Waterwheel,White,14.99
+W-1527,Onama,White,11.99
+W-1528,Bellbottom Wine,White,12.99
+W-1529,Majestic Power Vines,White,38.99
+W-1530,Tricky Task Vintners,White,35.49
+W-1531,Upscale,White,17.99
+W-1532,Spourmo Vintners,White,16.99
+W-1533,Uneven Vineyards,White,9.99
+W-1534,Pegmode,White,47.99
+W-1535,Energetically Ignorant,White,18.49
+W-1536,Snowball,White,15.49
+W-1537,Rain Stick,White,8.99
+W-1538,Limelight Winery,White,10.49
+W-1539,Johackle Vineyards,White,18.99
+W-1540,Melted Copper Vintners,White,20.99
+W-1541,Nifty Monkey,White,9.49
+W-1542,Bookbox Vineyards,White,20.99
+W-1543,Lovely Writer Vines,White,12.99
+W-1544,Slowdown Wines,White,10.49
+W-1545,Perpetual Shade,White,11.49
+W-1546,Flawless Memory,White,21.99
+W-1547,Fluttering Butterfly,White,22.49
+W-1548,Teamwork Vineyards,White,20.99
+W-1549,Gogopo,White,11.99
+W-1550,Sassee Wine,White,7.99
+W-1551,Jumpy Wheel Wine,White,95.49
+W-1552,Ballroom Vines,White,21.49
+W-1553,Fantastic Farm Vines,White,91.49
+W-1554,Small Estate Vintners,White,137.99
+W-1555,Watershed Wine,White,19.49
+W-1556,Versed Wines,White,10.49
+W-1557,Crestboot Vintners,White,17.99
+W-1558,Unique,White,23.49
+W-1559,Pinstripe,White,11.99
+W-1560,Superfine Vintners,White,14.99
+W-1561,Yodacloud Vintners,White,20.49
+W-1562,Immense Grape,White,12.99
+W-1563,Amused,White,138.99
+W-1564,Esuyp,White,20.99
+W-1565,Drawbridge Vineyards,White,16.99
+W-1566,Guarded Tail Vintners,White,16.49
+W-1567,Tremendous Color,White,21.99
+W-1568,High Hill Wines,White,67.99
+W-1569,Moonbeam Vintners,White,23.49
+W-1570,Yeinydd Winery,White,17.99
+W-1571,Friendly Fox,White,34.49
+W-1572,Bookseller Winery,White,11.49
+W-1573,Zealously Honorable Vintners,White,22.99
+W-1574,Wonderful Arithmetic,White,38.49
+W-1575,Noelind Wines,White,8.99
+W-1576,Zestybus,White,49.99
+W-1577,Jackpot,White,13.99
+W-1578,Impossible Notion Winery,White,90.99
+W-1579,Rare Dirt,White,171.99
+W-1580,Functional Business,White,16.99
+W-1581,Flying Kite Vintners,White,36.99
+W-1582,Lavish,White,18.99
+W-1583,Insidious Work Wines,White,29.99
+W-1584,Parched Wanderer,White,10.99
+W-1585,Shorogyt Vintners,White,19.99
+W-1586,Ferirama Vintners,White,54.99
+W-1587,Scientific,White,19.99
+W-1588,Giddy Crow,White,10.99
+W-1589,Railroad Vines,White,16.49
+W-1590,Flagrant Bulb,White,10.99
+W-1591,Passbook,White,19.99
+W-1592,Grumpy Monk,White,20.99
+W-1593,Watercolor Wines,White,15.49
+W-1594,Scapegoat,White,15.99
+W-1595,Exotic Fog,White,46.99
+W-1596,Fancy Cup,White,14.99
+W-1597,Essentially Coherent,White,16.99
