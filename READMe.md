@@ -7,9 +7,9 @@ The data, resources, and scripts for this project are all made to be self contai
 ## Project Setup
 
 1. Set file paths for:
-**output_folder
-**csv_folder
-**database_file
+- output_folder
+- csv_folder
+- database_file
 
     These paths need to be updated inside of sqlitedb.py, csvpreprocessing.py, and import.py
 
