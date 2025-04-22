@@ -1,6 +1,6 @@
 # Overview
 
-This FP&A Analytics case study is helpful for finance or data professionals who want a real world look at business practices for financial/accounting data analytics. You can follow along on my website www.NikoFrance.com for my writeup and step by step analysis and or you can view this repository for a deeper look at my files, datasets, and codebase for this project. 
+This FP&A Analytics case study is helpful for finance or data professionals who want a real world look at business practices for financial/accounting data analytics. You can follow along on my website NikoFrance.com for my writeup and step by step analysis and or you can view this repository for a deeper look at my files, datasets, and codebase for this project. 
 
 The data, resources, and scripts for this project are all made to be self contained. For users who want to replicate themselves on their local machine, simply clone the repository to your own machine and run the required scripts in order and update the necessary file paths by either hardcoding or creating your own .env file.
 
